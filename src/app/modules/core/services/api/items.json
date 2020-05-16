@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "label": "Stormfront Pegasus",
+      "categories": ["white"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/d/2/d2429a15-ccbe-463c-9218-968709d9e878.jpg?1561996640"
+    },
+    {
+      "id": 2,
+      "label": "Coral Eel",
+      "categories": ["blue"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/3/5/35bbb10f-c118-4905-8329-3963af415178.jpg?1562446165"
+    },
+    {
+      "id": 3,
+      "label": "Child of Night",
+      "categories": ["black"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/c/4/c4780079-7f4c-4a43-883f-4722423c4fec.jpg?1562659042"
+    },
+    {
+      "id": 4,
+      "label": "Ambush Viper",
+      "categories": ["green"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/0/c/0c082aa8-bf7f-47f2-baf8-43ad253fd7d7.jpg?1562826021"
+    },
+    {
+      "id": 5,
+      "label": "Goblin Piker",
+      "categories": ["red"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/2/7/2786834d-dbda-40ce-82a4-e518cd554312.jpg?1562904376"
+    },
+    {
+      "id": 6,
+      "label": "Selesnya Guildmage",
+      "categories": ["white", "green"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/2/1/21061ce3-d098-4057-b341-c5db6ee1b6d4.jpg?1562095122"
+    },
+    {
+      "id": 7,
+      "label": "Azorius Guildmage",
+      "categories": ["white", "blue"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/8/1/81f0f0ce-7c23-444c-9d9f-bfa9c8705fd5.jpg?1562612888"
+    },
+    {
+      "id": 8,
+      "label": "Orzhov Guildmage",
+      "categories": ["white", "black"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/8/e/8e2ae5b4-2caf-4992-b2c2-64f00e9e567a.jpg?1562555364"
+    },
+    {
+      "id": 9,
+      "label": "Boros Guildmage",
+      "categories": ["white", "red"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/0/7/072a1ff1-9c50-426a-a83c-817bde5beab7.jpg?1562091024"
+    },
+    {
+      "id": 10,
+      "label": "Izzet Guildmage",
+      "categories": ["red", "blue"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/e/c/ecce6ade-8741-4567-8ed3-3e03becc6f1b.jpg?1562563054"
+    },
+    {
+      "id": 11,
+      "label": "Dimir Guildmage",
+      "categories": ["blue", "black"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/6/9/69b822aa-4144-400a-b993-f146cbeed54f.jpg?1562106813"
+    },
+    {
+      "id": 12,
+      "label": "Simic Guildmage",
+      "categories": ["blue", "green"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/d/7/d77d4ffb-a829-49ca-9c37-c60ba467852c.jpg?1562615459"
+    },
+    {
+      "id": 13,
+      "label": "Golgari Guildmage",
+      "categories": ["green", "black"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/d/9/d91b994b-3cf2-43f7-8af6-7925e882208f.jpg?1562123455"
+    },
+    {
+      "id": 14,
+      "label": "Gruul Guildmage",
+      "categories": ["green", "red"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1562560388"
+    },
+    {
+      "id": 15,
+      "label": "Rakdos Guildmage",
+      "categories": ["red", "black"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/0/e/0e01fef8-5563-4dec-ab8e-e486e19e202c.jpg?1562609658"
+    },
+    {
+      "id": 16,
+      "label": "Alpha Myr",
+      "categories": ["colourless"],
+      "imageUrl": "https://img.scryfall.com/cards/large/front/f/3/f3f792d7-75be-429e-8f62-0b563b103642.jpg?1562163038"
+    }
+  ]
+}
